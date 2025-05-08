@@ -10,8 +10,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-# Logo
-st.image("logo.png", width=120)
 
 # Fonction de vérification
 def verify_login(username, password):
