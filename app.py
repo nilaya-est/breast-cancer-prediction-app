@@ -11,7 +11,7 @@ import seaborn as sns
 import os
 
 # Logo
-st.image(r"C:\Users\AdMin\OneDrive\Documents\20241110\logo.png", width=120)
+st.image("logo.png", width=120)
 
 # Fonction de vérification
 def verify_login(username, password):
