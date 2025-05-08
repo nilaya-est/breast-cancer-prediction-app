@@ -10,7 +10,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> cb0ed54edb7c7d473d4ea0b865df15907f33d8bc
 # Fonction de vérification
 def verify_login(username, password):
     conn = sqlite3.connect("data/users.db")
